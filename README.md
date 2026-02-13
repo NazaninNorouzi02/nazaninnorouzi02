@@ -1,4 +1,4 @@
-# Hi, I'm Nazanin :)
+# 🌠 Hi, I'm Nazanin :)
 
 🎓 B.Sc. in Physics from Sharif University of Technology  
 
@@ -11,7 +11,7 @@ Currently, I am working on:
 - 📊 ROOT & RDataFrame for collider data analysis  
 - 🌊 DUNE experiment using the SPINE reconstruction package  
 
-I am open to collaboration in computational physics and particle physics.
+🌟 I am open to collaboration in computational physics and particle physics.
 
 ---
 
