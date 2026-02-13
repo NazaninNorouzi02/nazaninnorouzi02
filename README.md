@@ -3,11 +3,11 @@
 🎓 B.Sc. in Physics from Sharif University of Technology  
 
 I am interested in **Experimental Particle Physics** and **Computational Physics**.  
-I am fascinated by particle colliders, detector reconstruction, and Particle Flow algorithms.
+I am fascinated by particle colliders, event reconstruction in modern detectors, and Particle Flow algorithms.
 
 Currently, I am working on:
 
-- 🏗 Future Circular Collider (FCC) using key4hep ecosystem  
+- 🎯 Future Circular Collider (FCC) using key4hep ecosystem  
 - 📊 ROOT & RDataFrame for collider data analysis  
 - 🌊 DUNE experiment using the SPINE reconstruction package  
 
@@ -25,22 +25,25 @@ I am open to collaboration in computational physics and particle physics.
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Scientific & HEP Tools
 ![ROOT](https://img.shields.io/badge/ROOT-000000?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+
 
 ---
